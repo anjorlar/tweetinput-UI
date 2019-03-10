@@ -1,0 +1,17 @@
+.detail{
+    color: blue;
+    background-color: aqua;
+    padding: 12.5% 5%;
+}
+textarea{
+    background-color: rgb(235, 225, 225);
+    color: black;
+    border-radius: 8%;
+    border: none;
+    font-size: 18px;
+}
+button{
+     border-radius: 10%;
+     box-shadow: none;
+     border: none;
+}
